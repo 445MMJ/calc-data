@@ -1967,9 +1967,9 @@
       "EntityID": "83351"
     }
   ],
-  "陣地作成 EX （D相当）": [
+  "陣地作成 EX（D相当）": [
     {
-      "SkillName": "陣地作成 EX （D相当）",
+      "SkillName": "陣地作成 EX（D相当）",
       "Sign": "1",
       "Demerit": "0",
       "Target": "自身",
@@ -1981,9 +1981,9 @@
       "EntityID": "83900"
     }
   ],
-  "道具作成 EX （D相当）": [
+  "道具作成 EX（D相当）": [
     {
-      "SkillName": "道具作成 EX （D相当）",
+      "SkillName": "道具作成 EX（D相当）",
       "Sign": "1",
       "Demerit": "0",
       "Target": "自身",
@@ -2889,9 +2889,9 @@
       "EntityID": "54149"
     }
   ],
-  "狂化 EX （C相当）": [
+  "狂化 EX（C相当）": [
     {
-      "SkillName": "狂化 EX （C相当）",
+      "SkillName": "狂化 EX（C相当）",
       "Sign": "1",
       "Demerit": "0",
       "Target": "自身",
